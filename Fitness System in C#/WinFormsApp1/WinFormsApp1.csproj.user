@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Antrenor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AntrenorEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BildirimGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cevap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DegisiklikEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuncelleSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuvenlikSoru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paketler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifreDegistirKullanici2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifreDegistirmeKullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Unutma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uyegiriskayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeGoruntuleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YetkiliEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,78 @@
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AnaSayfa.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Giris.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.YeniKayit.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.kayıt.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AnaSayfa.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Giris.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.kayıt.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GuncelleSil.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Odeme.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Paketler.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UyeGoruntuleme.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.DegisiklikEkrani.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.BildirimGoster.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.YetkiliEkle.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.uyegiriskayit.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.kullanici.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Antrenor.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SifreDegistirmeKullanici.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.SifreDegistirKullanici2.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Unutma.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GuvenlikSoru.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AntrenorEkrani.resources
+C:\Users\yusuf\OneDrive\Masaüstü\ödev\Mühendislik projesi\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Cevap.resources
